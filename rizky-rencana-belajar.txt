@@ -2,8 +2,12 @@ RENCANA BELAJAR RIZKY
 
 - BELAJAR PHP akhir tahun harus sudah lancar
 - BELAJAR LARAVEL februari harus sudah lancar
+- BELAJAR Frame work java script
+  * Angular
+  * react
 - BELAJAR PYTHON
 - BELAJAR framework javascript
   *BELAJAR react
 - monggodb
 - FUNDAMENTAL DATA STRUCTUR
+
