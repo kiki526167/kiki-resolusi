@@ -6,4 +6,8 @@ RENCANA BELAJAR RIZKY
   * Angular
   * react
 - BELAJAR PYTHON
+- BELAJAR framework javascript
+  *BELAJAR react
+- monggodb
+- FUNDAMENTAL DATA STRUCTUR
 
