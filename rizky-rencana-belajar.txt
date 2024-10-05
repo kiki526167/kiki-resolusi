@@ -3,3 +3,4 @@ RENCANA BELAJAR RIZKY
 - BELAJAR PHP akhir tahun harus sudah lancar
 - BELAJAR LARAVEL februari harus sudah lancar
 - BELAJAR PYTHON
+- FUNDAMENTAL DATA STRUCTUR
