@@ -4,5 +4,6 @@ RENCANA BELAJAR RIZKY
 - BELAJAR LARAVEL februari harus sudah lancar
 - BELAJAR PYTHON
 - BELAJAR framework javascript
+  *BELAJAR react
 - monggodb
 - FUNDAMENTAL DATA STRUCTUR
